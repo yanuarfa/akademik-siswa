@@ -1,0 +1,23 @@
+{
+  "name": "akademik-siswa",
+  "version": "1.0.0",
+  "description": "website pengelolaan mahasiswa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "author": "Yanuar Faturahman",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^6.8.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
+  }
+}
